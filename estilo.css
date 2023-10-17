@@ -1,5 +1,5 @@
 html {
-    background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
+    background: rgb(29, 29, 29);
     background-size: cover;
     font-family: 'helvetica neue';
     text-align: center;
@@ -40,7 +40,7 @@ html {
   .hand {
     width: 50%;
     height: 6px;
-    background: black;
+    background: #ffff00;
     position: absolute;
     top: 50%;
     transform-origin: 100%;

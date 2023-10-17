@@ -1,5 +1,7 @@
 # Relógio Digital em JavaScript
 
+![Link](https://wesleybanagouro.github.io/Clock/)
+
 Este projeto cria um relógio digital simples que exibe a hora atual.
 
 ## Tecnologias utilizadas
