@@ -1,6 +1,6 @@
 # Relógio Digital em JavaScript
 
-![Link](https://wesleybanagouro.github.io/Clock/)
+[Clock](https://wesleybanagouro.github.io/Clock/)
 
 Este projeto cria um relógio digital simples que exibe a hora atual.
 
@@ -22,7 +22,7 @@ Para entrar em contato com o autor, envie um email para [wesley.banagouro@outloo
 
 Este projeto faz parte do curso #Javascript30, desenvolvido pelo WesBos.
 
-[https://javascript30.com/]
+[#Javascript30](https://javascript30.com/)
 
 
  
