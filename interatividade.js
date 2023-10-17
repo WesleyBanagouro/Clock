@@ -16,7 +16,7 @@
 
     const horas = agora.getHours();
     const horasGraus = ((horas + (minutos / 60)) * 360 / 12) + 90;
-    hourHand.style.transform = `rotate(${horasGraus}deg)`;
+    ponteiroHoras.style.transform = `rotate(${horasGraus}deg)`;
   }
 
   setInterval(setDate, 1000);
